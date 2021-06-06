@@ -2,28 +2,6 @@
 # yarn lockfile v1
 
 
-"@kidsagree/ui@file:..":
-  version "0.3.0"
-  dependencies:
-    "@babel/plugin-external-helpers" "^7.2.0"
-    "@babel/runtime" "^7.3.1"
-    airbnb-prop-types "^2.9.0"
-    arg "^2.0.0"
-    command-exists "^1.2.6"
-    dayjs "^1.8.14"
-    js-sha3 "^0.8.0"
-    jsbi "^3.1.2"
-    lodash "^4.17.15"
-    markdown-to-jsx "^6.11.0"
-    popper.js "^1.14.4"
-    prop-types "^15.6.0"
-    react-blockies "^1.4.0"
-    react-display-name "^0.2.3"
-    react-onclickout "^2.0.8"
-    react-spring "^7.2.11"
-    recursive-copy "^2.0.9"
-    use-inside "^0.2.0"
-
 "@babel/code-frame@^7.8.3":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.8.3.tgz#33e25903d7481181534e12ec0a25f16b6fcf419e"
@@ -841,6 +819,28 @@
     "@babel/helper-validator-identifier" "^7.9.5"
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
+
+"@kidsagree/ui@file:..":
+  version "0.0.1"
+  dependencies:
+    "@babel/plugin-external-helpers" "^7.2.0"
+    "@babel/runtime" "^7.3.1"
+    airbnb-prop-types "^2.9.0"
+    arg "^2.0.0"
+    command-exists "^1.2.6"
+    dayjs "^1.8.14"
+    js-sha3 "^0.8.0"
+    jsbi "^3.1.2"
+    lodash "^4.17.15"
+    markdown-to-jsx "^6.11.0"
+    popper.js "^1.14.4"
+    prop-types "^15.6.0"
+    react-blockies "^1.4.0"
+    react-display-name "^0.2.3"
+    react-onclickout "^2.0.8"
+    react-spring "^7.2.11"
+    recursive-copy "^2.0.9"
+    use-inside "^0.2.0"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -5673,8 +5673,8 @@ wrappy@1:
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
   dependencies:
     async-limiter "~1.0.0"
 
